@@ -6,7 +6,7 @@
     padding-right: 32px;
     padding-left: 16px;
 }
-img{
+.i{
     background-color: #ff7f7f;
     height: 35px;
     animation: rotation 8s infinite linear;
